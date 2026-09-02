@@ -13,7 +13,7 @@
     "copied_success": "Kopiere id zwüscheablag het klappt"
   },
   "dropdown": {
-    "custom_value": "Benutzerdefinierter Wert",
+    "custom_value": "Benutzerdefinierte Wert",
     "custom": "Benutzerdefiniert",
     "use_custom_value": "Benutzzerdefinierte Wert verwände",
     "back_preset_options": "Zrugg zu de vorigstellte Optione",
@@ -32,7 +32,7 @@
     "app_ids": "App-IDs",
     "devices": "Grät",
     "active_device": "Aktiv: {{name}}",
-    "select_device": "Grät auswählen",
+    "select_device": "Grät uswähle",
     "installers": "Installierer",
     "choose_build": "Build uswähle",
     "sidestore_stable": "SideStore (Stabil)",
@@ -43,7 +43,7 @@
     "settings": "Iistelligä",
     "must_be_logged_in": "Muesch agmäldet sii!",
     "must_select_device": "Muesch es Grät uswähle!",
-    "ipa_files": "IPA-Dateien",
+    "ipa_files": "IPA-Dateie",
     "logo_alt": "iloader-Logo"
   },
   "apple_id": {
@@ -51,240 +51,240 @@
     "logged_in_as": "Aagmäldet als",
     "sign_out": "Abmelde",
     "signing_out": "Abmäldig...",
-    "sign_out_failed": "Abmeldig fählgschlage",
-    "signed_out_success": "Erfolgreich abgemeldet!",
-    "saved_logins": "Gespeicherte Anmeldungen",
-    "sign_in": "Anmelden",
-    "logging_in": "Anmeldung...",
-    "logged_in_success": "Erfolgreich angemeldet!",
-    "login_failed": "Anmeldung fehlgeschlagen",
-    "deleting": "Wird gelöscht...",
-    "deletion_failed": "Löschen fehlgeschlagen",
-    "deleted_success": "Erfolgreich gelöscht!",
-    "add_account": "Konto hinzufügen +",
-    "new_login": "Neue Anmeldung",
+    "sign_out_failed": "Abmäldig het nöd klappt",
+    "signed_out_success": "Erfolgrich abgmäldet!",
+    "saved_logins": "Gspeichereti Aamäldige",
+    "sign_in": "Aamälde",
+    "logging_in": "Aamäldig...",
+    "logged_in_success": "Erfolgrich aagmäldet!",
+    "login_failed": "Aamäldig het nöd klappt",
+    "deleting": "Wird glöscht...",
+    "deletion_failed": "Lösche het nöd klappt",
+    "deleted_success": "Erfolgrich glöscht!",
+    "add_account": "Konto dezuefüege +",
+    "new_login": "Neui Aamäldig",
     "email_placeholder": "Apple-ID-E-Mail...",
     "password_placeholder": "Apple-ID-Passwort...",
-    "save_credentials": "Anmeldedaten speichern",
-    "enter_email_password": "Bitte gib sowohl E-Mail-Adresse als auch Passwort ein.",
-    "valid_email": "Bitte gib eine gültige E-Mail-Adresse ein.",
-    "login": "Anmelden",
-    "two_factor_title": "Zwei-Faktor-Authentifizierung",
-    "two_factor_prompt": "Bitte gib den an dein Gerät gesendeten Bestätigungscode ein.",
+    "save_credentials": "Aamäldedate speichere",
+    "enter_email_password": "Bitte gib E-Mail-Adresse und Passwort i.",
+    "valid_email": "Bitte gib e gültigi E-Mail-Adresse i.",
+    "login": "Aamälde",
+    "two_factor_title": "Zwei-Faktor-Authentifizierig",
+    "two_factor_prompt": "Bitte gib de Bestätigungscode i, wo a dis Grät gschickt worde isch.",
     "verification_placeholder": "Bestätigungscode...",
-    "valid_6digit": "Bitte gib einen gültigen 6-stelligen Code ein.",
-    "submit": "Absenden",
-    "max_certs_title": "Maximale Anzahl an Zertifikaten erreicht",
-    "max_certs_desc": "iloader wird deine bestehenden Zertifikate widerrufen und ein neues erstellen.",
-    "hide_certificate_list": "Zertifikatsliste ausblenden",
-    "choose_what_to_revoke": "Auswählen, was widerrufen werden soll",
-    "continue": "Weiter",
-    "no_keyring_available": "Anmeldedaten können auf diesem Gerät nicht gespeichert werden."
+    "valid_6digit": "Bitte gib en gültige 6-stellige Code i.",
+    "submit": "Absende",
+    "max_certs_title": "Maximali Anzahl Zertifikat erreicht",
+    "max_certs_desc": "iloader wird dini bestehende Zertifikat widerrüefe und es neus erstelle.",
+    "hide_certificate_list": "Zertifikatsliste usblände",
+    "choose_what_to_revoke": "Wähl us, was widerrüefe werde söll",
+    "continue": "Wiiter",
+    "no_keyring_available": "Aamäldedate chönd uf dem Grät nöd gspeicheret werde."
   },
   "device": {
     "title": "iDevice",
-    "loading_devices": "Geräte werden geladen...",
-    "no_devices_found": "Keine Geräte gefunden",
-    "found_device": "Gerät gefunden",
-    "found_devices": "Geräte gefunden",
-    "unable_load_devices_prefix": "Geräte konnten nicht geladen werden",
-    "no_devices_found_period": "Keine Geräte gefunden.",
-    "selected": "Ausgewählt",
+    "loading_devices": "Grät werde glade...",
+    "no_devices_found": "Kei Grät gfunde",
+    "found_device": "Grät gfunde",
+    "found_devices": "Grät gfunde",
+    "unable_load_devices_prefix": "Grät chönd nöd glade werde",
+    "no_devices_found_period": "Kei Grät gfunde.",
+    "selected": "Uusgwählt",
     "pairing_in_progress_header": "Pairing mit {{device}}...",
-    "pairing_in_progress_hint": "Bitte entsperre dein Gerät und tippe auf „Vertrauen“. Gib anschliessend deinen Code ein, falls du dazu aufgefordert wirst.",
-    "pairing_cancel": "Abbrechen",
-    "failed_select": "Gerät konnte nicht ausgewählt werden"
+    "pairing_in_progress_hint": "Bitte entsperr dis Grät und tipp uf „Vertraue“. Gib nacher din Code i, wenn du dezue ufgforderet wirsch.",
+    "pairing_cancel": "Abbreche",
+    "failed_select": "Grät het nöd chöne uusgwählt werde"
   },
   "operation": {
-    "failed": "Vorgang fehlgeschlagen.",
-    "completed": "Vorgang abgeschlossen",
-    "please_wait": "Bitte warten...",
-    "copy_error_clipboard": "Fehler in die Zwischenablage kopieren"
+    "failed": "Vorgang het nöd klappt.",
+    "completed": "Vorgang abgschlosse",
+    "please_wait": "Bitte warte...",
+    "copy_error_clipboard": "Fehler id Zwüscheablag kopiere"
   },
   "operations": {
     "install_sidestore_title": "SideStore wird installiert",
     "install_sidestore_success_title": "SideStore installiert!",
-    "install_sidestore_success_message": "Öffne SideStore und aktualisiere ihn, um die Installation abzuschliessen!",
-    "install_sidestore_step_download": "SideStore herunterladen",
-    "install_sidestore_step_install": "SideStore signieren und installieren",
-    "install_sidestore_step_pairing": "Pairing-Datei platzieren",
+    "install_sidestore_success_message": "Öffne SideStore und aktualisiere ihn, zum d Installation abzschlüsse!",
+    "install_sidestore_step_download": "SideStore abelade",
+    "install_sidestore_step_install": "SideStore signiere und installiere",
+    "install_sidestore_step_pairing": "Pairing-Datei platziere",
     "install_livecontainer_title": "LiveContainer+SideStore wird installiert",
     "install_livecontainer_success_title": "LiveContainer+SideStore installiert!",
-    "install_livecontainer_success_message": "Um die Installation abzuschliessen, öffne LiveContainer, wähle die Einstellungen aus und tippe auf „Zertifikat aus SideStore importieren“. Wähle anschliessend die Apps aus, tippe auf das SideStore-Symbol und aktualisiere LiveContainer.",
-    "install_livecontainer_step_download": "LiveContainer+SideStore herunterladen",
-    "install_livecontainer_step_install": "LiveContainer+SideStore signieren und installieren",
-    "install_livecontainer_step_pairing": "Pairing-Datei platzieren",
+    "install_livecontainer_success_message": "Zum d Installation abzschlüsse, öffne LiveContainer, gang i d Iistellige und tipp uf „Zertifikat us SideStore importiere“. Wähl nacher d Apps us, tipp uf s SideStore-Symbol und aktualisier LiveContainer.",
+    "install_livecontainer_step_download": "LiveContainer+SideStore abelade",
+    "install_livecontainer_step_install": "LiveContainer+SideStore signiere und installiere",
+    "install_livecontainer_step_pairing": "Pairing-Datei platziere",
     "sideload_title": "App wird installiert",
-    "sideload_step_install": "App signieren und installieren"
+    "sideload_step_install": "App signiere und installiere"
   },
   "certificates": {
-    "manage": "Zertifikate verwalten",
-    "loading": "Zertifikate werden geladen...",
-    "loaded_success": "Zertifikate erfolgreich geladen!",
-    "failed_load": "Zertifikate konnten nicht geladen werden",
-    "revoking": "Zertifikat wird widerrufen...",
-    "revoked_success": "Zertifikat erfolgreich widerrufen!",
-    "failed_revoke": "Zertifikat konnte nicht widerrufen werden: ",
-    "none_found": "Keine Zertifikate gefunden.",
+    "manage": "Zertifikat verwalte",
+    "loading": "Zertifikat werde glade...",
+    "loaded_success": "Zertifikat erfolgreich glade!",
+    "failed_load": "Zertifikat chönd nöd glade werde",
+    "revoking": "Zertifikat wird widerrüefe...",
+    "revoked_success": "Zertifikat erfolgreich widerrüefe!",
+    "failed_revoke": "Zertifikat het nöd chöne widerrüefe werde: ",
+    "none_found": "Kei Zertifikat gfunde.",
     "name": "Name",
-    "serial_number": "Seriennummer",
-    "machine_name": "Maschinenname",
-    "machine_id": "Maschinen-ID",
-    "revoke": "Widerrufen"
+    "serial_number": "Serienummer",
+    "machine_name": "Maschinename",
+    "machine_id": "Maschine-ID",
+    "revoke": "Widerrüefe"
   },
   "app_ids": {
-    "manage": "App-IDs verwalten",
-    "loading": "App-IDs werden geladen...",
-    "loaded_success": "App-IDs erfolgreich geladen!",
-    "failed_load": "App-IDs konnten nicht geladen werden",
-    "deleted_success": "App-ID erfolgreich gelöscht!",
-    "failed_delete": "App-ID konnte nicht gelöscht werden",
+    "manage": "App-IDs verwalte",
+    "loading": "App-IDs werde glade...",
+    "loaded_success": "App-IDs erfolgreich glade!",
+    "failed_load": "App-IDs chönd nöd glade werde",
+    "deleted_success": "App-ID erfolgreich glöscht!",
+    "failed_delete": "App-ID het nöd chöne glöscht werde",
     "available": "{{available}}/{{max}} IDs verfügbar",
-    "none_found": "Keine App-IDs gefunden.",
+    "none_found": "Kei App-IDs gfunde.",
     "name": "Name",
     "expiration": "Ablauf",
     "id": "ID",
-    "identifier": "Bezeichner",
+    "identifier": "Bezeichnig",
     "never": "Nie"
   },
   "pairing": {
-    "manage": "Pairing-Datei verwalten",
-    "loading_apps": "Apps werden geladen...",
-    "apps_loaded_success": "Apps erfolgreich geladen!",
-    "failed_load_apps": "Apps konnten nicht geladen werden",
+    "manage": "Pairing-Datei verwalte",
+    "loading_apps": "Apps werde glade...",
+    "apps_loaded_success": "Apps erfolgreich glade!",
+    "failed_load_apps": "Apps chönd nöd glade werde",
     "placing_pairing_file": "Pairing-Datei wird platziert...",
     "pairing_file_placed_success": "Pairing-Datei erfolgreich platziert!",
-    "failed_place_pairing": "Pairing konnte nicht durchgeführt werden",
-    "loading_app": "App wird geladen...",
-    "no_supported_apps_found": "Keine unterstützten Apps gefunden.",
+    "failed_place_pairing": "Pairing het nöd chöne durchgeführt werde",
+    "loading_app": "App wird glade...",
+    "no_supported_apps_found": "Kei unterstützte Apps gfunde.",
     "name": "Name",
     "bundle_id": "Bundle-ID",
-    "place_pairing_file": "Pairing-Datei platzieren",
-    "place": "Platzieren",
-    "advanced_export_title": "Erweitert: Pairing-Datei exportieren",
-    "advanced_export_message": "Dies wird nicht empfohlen, ausser du weisst genau, was du tust. Klicke stattdessen neben einer App auf „Platzieren“, um sie automatisch zu übertragen. Möchtest du deine Pairing-Datei trotzdem exportieren?",
+    "place_pairing_file": "Pairing-Datei platziere",
+    "place": "Platziere",
+    "advanced_export_title": "Erwiiteret: Pairing-Datei exportiere",
+    "advanced_export_message": "Das wird nöd empfohle, usser du weisch genau, was du machsch. Klick stattdesse bi ere App uf „Platziere“, zum sie automatisch z überträge. Bisch du sicher, dass du dini Pairing-Datei trotzdem exportiere wetsch?",
     "exporting_pairing_file": "Pairing-Datei wird exportiert...",
     "pairing_file_exported_success": "Pairing-Datei erfolgreich exportiert!",
-    "failed_export_pairing_file": "Pairing-Datei konnte nicht exportiert werden",
-    "export_not_recommended": "Exportieren (Nicht empfohlen)",
-    "refresh_installed_apps": "Installierte Apps erneut suchen",
-    "place_all": "In allen Apps platzieren"
+    "failed_export_pairing_file": "Pairing-Datei het nöd chöne exportiert werde",
+    "export_not_recommended": "Exportiere (Nöd empfohle)",
+    "refresh_installed_apps": "Installierti Apps nomal sueche",
+    "place_all": "I allne Apps platziere"
   },
   "settings": {
     "anisette_server": "Anisette-Server:",
-    "custom_anisette_placeholder": "Benutzerdefinierter Anisette-Server",
+    "custom_anisette_placeholder": "Benutzerdefinierte Anisette-Server",
     "custom_anisette": "Benutzerdefiniert",
-    "use_custom_anisette": "Benutzerdefinierten Anisette-Server verwenden",
-    "back_preset_servers": "Zurück zu den voreingestellten Servern",
-    "reset_anisette_title": "Anisette-Status zurücksetzen",
-    "reset_anisette_message": "Möchtest du den Anisette-Status wirklich zurücksetzen? Du musst anschliessend deinen 2FA-Code erneut eingeben.",
-    "resetting_anisette_state": "Anisette-Status wird zurückgesetzt...",
-    "anisette_state_reset_success": "Anisette-Status erfolgreich zurückgesetzt",
-    "anisette_state_not_found": "Kein Anisette-Status zum Zurücksetzen vorhanden",
-    "failed_reset_anisette_state": "Anisette-Status konnte nicht zurückgesetzt werden",
-    "view_logs": "Protokolle anzeigen",
-    "logs": "Protokolle",
-    "log_level": "Protokollebene:",
-    "no_logs_yet": "Noch keine Protokolle.",
+    "use_custom_anisette": "Benutzerdefinierte Anisette-Server verwände",
+    "back_preset_servers": "Zrugg zu de vorigstellte Server",
+    "reset_anisette_title": "Anisette-Status zruggsetze",
+    "reset_anisette_message": "Wotsch de Anisette-Status würkli zruggsetze? Du muesch nacher din 2FA-Code nomal iigäh.",
+    "resetting_anisette_state": "Anisette-Status wird zruggsetzt...",
+    "anisette_state_reset_success": "Anisette-Status erfolgreich zruggsetzt",
+    "anisette_state_not_found": "Kei Anisette-Status zum Zruggsetze gfunde",
+    "failed_reset_anisette_state": "Anisette-Status het nöd chöne zruggsetzt werde",
+    "view_logs": "Protokoll azeige",
+    "logs": "Protokoll",
+    "log_level": "Protokoll-Ebene:",
+    "no_logs_yet": "No kei Protokoll.",
     "debug": "Debug",
     "info": "Info",
-    "warn": "Warnung",
+    "warn": "Warnig",
     "error": "Fehler",
-    "language_hint": "Du kannst bei den Übersetzungen <translation>hier</translation> mithelfen.",
-    "delete_stored_rppairing": "Gespeichertes Pairing löschen",
-    "delete_stored_rppairing_message": "Möchtest du die gespeicherte Pairing-Datei für dieses Gerät wirklich löschen? Du musst danach erneut ein Pairing durchführen.",
-    "deleting_stored_rppairing": "Gespeichertes Pairing wird gelöscht...",
-    "stored_rppairing_deleted_success": "Gespeichertes Pairing erfolgreich gelöscht!",
-    "failed_delete_stored_rppairing": "Gespeichertes Pairing konnte nicht gelöscht werden",
-    "dont_use_keyring": "Keyring nicht verwenden",
-    "dont_use_keyring_message": "Dadurch wird iloader weniger sicher, da Pairing-Dateien, der Anisette-Status und Zertifikate auf der Festplatte gespeichert werden. Aktiviere diese Option nur, wenn der standardmässige Keyring-Speicher nicht funktioniert und du die Risiken verstehst."
+    "language_hint": "Du chasch bi de Übersetzige <translation>da</translation> mithelfe.",
+    "delete_stored_rppairing": "Gspeicherets Pairing lösche",
+    "delete_stored_rppairing_message": "Wotsch d gspeichereti Pairing-Datei für das Grät würkli lösche? Du muesch nacher nomal es Pairing mache.",
+    "deleting_stored_rppairing": "Gspeicherets Pairing wird glöscht...",
+    "stored_rppairing_deleted_success": "Gspeicherets Pairing erfolgreich glöscht!",
+    "failed_delete_stored_rppairing": "Gspeicherets Pairing het nöd chöne glöscht werde",
+    "dont_use_keyring": "Keyring nöd verwände",
+    "dont_use_keyring_message": "Dadurch wird iloader weniger sicher, will Pairing-Dateie, de Anisette-Status und Zertifikat uf de Festplatte gspeicheret werde. Aktivier die Option nume, wenn de standardmässige Keyring-Speicher nöd funktioniert und du d Risike versteisch."
   },
   "dialog": {
-    "confirm": "Bestätigen",
-    "cancel": "Abbrechen"
+    "confirm": "Bestätige",
+    "cancel": "Abbreche"
   },
   "error": {
-    "title": "Ein Fehler ist aufgetreten: {{msg}}",
+    "title": "Es isch en Fehler ufgtrete: {{msg}}",
     "unknown": "Unbekannt",
-    "suggestions_heading": "Vorschläge",
+    "suggestions_heading": "Vorschläg",
     "suggestions": {
       "underage": [
-        "Deine Apple-ID ist möglicherweise jünger als das für die Nutzung von Entwicklertools erforderliche Mindestalter."
+        "Dini Apple-ID isch villicht z jung, zum Entwicklerservices nutze z chöne."
       ],
       "account_locked": [
-        "Keine Panik! Dies tritt normalerweise nach mehreren fehlgeschlagenen Anmeldeversuchen auf und ist völlig harmlos.",
-        "Besuche ((link:https://iforgot.apple.com/)), um dein Konto zu entsperren."
+        "Kei Panik! Das chunnt normalerwiis nach mehrere fehlgschlagene Aamäldige vor und isch völlig harmlos.",
+        "Bsuech ((link:https://iforgot.apple.com/)), zum dis Konto z entsperre."
       ],
       "auth": [
-        "Stelle sicher, dass deine Anmeldedaten korrekt sind, und versuche es erneut, auch wenn sie korrekt waren.",
-        "Falls das Problem weiterhin besteht, versuche es mit einer anderen Apple-ID.",
-        "2FA mit Sicherheitsschlüssel wird nicht unterstützt. Verwende nach Möglichkeit eine Apple-ID ohne 2FA oder mit 2FA über ein vertrauenswürdiges Gerät."
+        "Stell sicher, dass dini Aamäldedate stimme, und versuech es nomal, au wenn sie richtig gsi sind.",
+        "Wenn s Problem wiiterhin besteht, versuech es mit ere andere Apple-ID.",
+        "2FA mit em Sicherheitsschlüssel wird nöd unterstützt. Verwänd wenn möglich e Apple-ID ohni 2FA oder mit 2FA über es vertrauenswürdigs Grät."
       ],
       "download": [
-        "Lade SideStore manuell von ((link:https://github.com/SideStore/SideStore/releases)) herunter und verwende die Schaltfläche „IPA importieren“, um es zu installieren."
+        "Lad SideStore manuell vo ((link:https://github.com/SideStore/SideStore/releases)) abe und verwänd d Schaltflächi „IPA importiere“, zum es z installiere."
       ],
       "house_arrest": [
-        "[ios::26.3]Stelle sicher, dass dein Gerät keine Developer-Beta von iOS 26.3 verwendet, da diese einen Fehler mit House Arrest enthält"
+        "[ios::26.3]Stell sicher, dass dis Grät kei Developer-Beta vo iOS 26.3 verwendet, will die en Fehler mit House Arrest het"
       ],
       "pairing": [
-        "Versuche, das Gerät erneut zu verbinden und den Vorgang nochmals auszuführen.",
-        "Stelle sicher, dass auf deinem Gerät ein Code eingerichtet ist.",
-        "Stelle sicher, dass dein Gerät über USB und nicht drahtlos verbunden ist."
+        "Versuech, s Grät nomal z verbinde und de Vorgang nomal uusfüehre.",
+        "Stell sicher, dass uf dim Grät en Code igstellt isch.",
+        "Stell sicher, dass dis Grät über USB und nöd drahtlos verbunde isch."
       ],
       "canceled": [],
       "operation_update": [],
       "usbmuxd": [
-        "[platform::windows]Stelle sicher, dass iTunes installiert ist und dein Gerät erkannt wird.",
-        "[platform::windows]Deinstalliere iTunes und Apple Mobile Device Support und installiere anschliessend „Apple Devices“ aus dem Microsoft Store.",
-        "[platform::linux]Stelle sicher, dass usbmuxd installiert ist und ausgeführt wird."
+        "[platform::windows]Stell sicher, dass iTunes installiert isch und dis Grät erkannt wird.",
+        "[platform::windows]Deinstallier iTunes und Apple Mobile Device Support und installier nacher „Apple Devices“ us em Microsoft Store.",
+        "[platform::linux]Stell sicher, dass usbmuxd installiert isch und lauft."
       ],
       "trust": [
-        "Entsperre dein Gerät, gehe zum Startbildschirm und bestätige alle angezeigten Vertrauensabfragen."
+        "Entsperr dis Grät, gang uf de Startbildschirm und akzeptier alli Vertrauensabfrage, wo azeigt werde."
       ],
       "device_coms": [
-        "Stelle sicher, dass dein Gerät korrekt mit deinem Computer verbunden ist.",
-        "Trenne das Gerät und verbinde es erneut. Falls das Problem weiterhin besteht, versuche einen anderen USB-Anschluss und ein anderes Kabel."
+        "Stell sicher, dass dis Grät richtig mit dim Computer verbunde isch.",
+        "Zieh s Grät us und verbinde es nomal. Wenn s Problem wiiterhin besteht, versuech en andere USB-Anschluss und es anders Kabel."
       ],
       "not_logged_in": [
-        "Melde dich zuerst mit deiner Apple-ID an."
+        "Mäld dich zuerst mit diner Apple-ID aa."
       ],
       "no_device_selected": [
-        "Wähle ein Gerät aus, bevor du fortfährst."
+        "Wähl es Grät us, bevor du wiitermachsch."
       ],
       "anisette": [
-        "Stelle sicher, dass dein Computer mit dem Internet verbunden ist.",
-        "Ändere deinen Anisette-Server. Probiere mehrere verschiedene Server aus.",
-        "Stelle sicher, dass du ((link:{{anisetteServerUrl}})) in einem Browser öffnen kannst."
+        "Stell sicher, dass din Computer mit em Internet verbunde isch.",
+        "Änder din Anisette-Server. Probier mehri verschiedeni Server us.",
+        "Stell sicher, dass du ((link:{{anisetteServerUrl}})) i me Browser chasch ufmache."
       ],
       "keyring": [
-        "Versuche, in den Einstellungen „Keyring nicht verwenden“ zu aktivieren, um dieses Problem zu umgehen. Beachte, dass dies weniger sicher ist."
+        "Versuech i de Iistellige „Keyring nöd verwände“ z aktiviere, zum das Problem z umgah. Beachte, dass das weniger sicher isch."
       ],
       "misc": [
-        "Versuche es erneut. Es kann auch helfen, die App, deinen Computer und/oder dein Smartphone neu zu starten."
+        "Versuech es nomal. Es cha au helfe, d App, din Computer und/oder dis Handy neu z starte."
       ],
       "admin": [
-        "Versuche, die App mit erweiterten Berechtigungen (als Administrator/Root) auszuführen."
+        "Versuech, d App mit erhöhte Berechtige (als Administrator/Root) uszfüehre."
       ],
       "filesystem": [
-        "Stelle sicher, dass iloader die Berechtigung hat, Dateien auf deinem System zu lesen und zu schreiben."
+        "Stell sicher, dass iloader d Berechtigung het, Dateie uf dim System z läse und z schriibe."
       ],
       "not_enough_app_ids": [
-        "Du hast nicht genügend App-IDs zur Verfügung, um diese App zu installieren.",
-        "Warte, bis App-IDs nach 7 Tagen ablaufen (sie können vorher nicht gelöscht werden), und versuche es danach erneut.",
-        "Die Installation von Apps über SideStore benötigt manchmal weniger App-IDs. Versuche daher, die App stattdessen von dort zu installieren."
+        "Du hesch nöd gnueg App-IDs zur Verfüegig, zum die App z installiere.",
+        "Wart, bis App-IDs nach 7 Täg ablaufe (sie chönd vorher nöd glöscht werde), und versuech es nacher nomal.",
+        "Apps über SideStore z installiere brucht mängisch weniger App-IDs. Versuech drum, d App stattdesse vo det z installiere."
       ],
       "max_apps": [
-        "Mit einer kostenlosen Apple-ID können höchstens 3 per Sideloading installierte Apps gleichzeitig installiert sein.",
-        "Lösche andere per Sideloading installierte Apps, um Platz für diese App freizugeben.",
-        "Abgelaufene Apps zählen weiterhin zum Limit von 3 Apps."
+        "Mit ere gratis Apple-ID chasch höchstens 3 per Sideloading installierte Apps gliichziitig installiert ha.",
+        "Lösch anderi per Sideloading installierte Apps, zum Platz für die App freizgeh.",
+        "Abglaufeni Apps zähled immer no zum Limit vo 3 Apps."
       ]
     },
-    "support_message": "Falls das Problem weiterhin besteht, drücke auf „In die Zwischenablage kopieren“ und sende den kopierten Fehler an den <discord>Discord</discord> oder als <github>GitHub-Issue</github>, damit du Unterstützung erhältst."
+    "support_message": "Wenn s Problem wiiterhin besteht, drück uf „In d Zwüscheablag kopiere“ und schick de kopierti Fehler i de <discord>Discord</discord> oder als <github>GitHub-Issue</github>, zum Support z übercho."
   },
   "update": {
-    "new_version_available": "Eine neue Version ist verfügbar: {{version}}. Möchtest du aktualisieren?",
+    "new_version_available": "Es isch e neui Version verfügbar: {{version}}. Wotsch aktualisiere?",
     "updating": "Wird aktualisiert...",
-    "downloaded_restarting": "Update heruntergeladen! App wird neu gestartet...",
-    "failed_download": "Update konnte nicht heruntergeladen werden: {{error}}"
+    "downloaded_restarting": "Update abeglade! App wird neu gstartet...",
+    "failed_download": "Update het nöd chöne abeglade werde: {{error}}"
   }
 }
